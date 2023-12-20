@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		63F567212B32EDDA0056060D /* 2706. Buy Two Chocolates .swift in Sources */ = {isa = PBXBuildFile; fileRef = 63F567202B32EDDA0056060D /* 2706. Buy Two Chocolates .swift */; };
+		63F567282B32EFB10056060D /* 0661. Image Smoother.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63F567272B32EFB10056060D /* 0661. Image Smoother.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		63F5671D2B32EDDA0056060D /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		63F567202B32EDDA0056060D /* 2706. Buy Two Chocolates .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2706. Buy Two Chocolates .swift"; sourceTree = "<group>"; };
+		63F567272B32EFB10056060D /* 0661. Image Smoother.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "0661. Image Smoother.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				63F567202B32EDDA0056060D /* 2706. Buy Two Chocolates .swift */,
+				63F567272B32EFB10056060D /* 0661. Image Smoother.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -121,6 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				63F567212B32EDDA0056060D /* 2706. Buy Two Chocolates .swift in Sources */,
+				63F567282B32EFB10056060D /* 0661. Image Smoother.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
