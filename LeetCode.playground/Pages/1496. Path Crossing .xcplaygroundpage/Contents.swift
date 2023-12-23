@@ -1,6 +1,5 @@
 import Foundation
-//submitted
-
+//submitted 23.12.2023
 
 class Solution {
     func isPathCrossing(_ path: String) -> Bool {
