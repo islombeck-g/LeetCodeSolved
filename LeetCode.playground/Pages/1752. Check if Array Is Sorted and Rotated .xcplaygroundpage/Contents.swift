@@ -13,7 +13,7 @@ class Solution {
     func check(_ nums: [Int]) -> Bool {
         
         var numsCopy = nums
-        for i in 0..<nums.count {
+        for _ in 0..<nums.count {
             if isSorted(&numsCopy) {
                 return true
             }
