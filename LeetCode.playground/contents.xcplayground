@@ -14,5 +14,7 @@
         <page name='0283. Move Zeroes '/>
         <page name='0392. Is Subsequence'/>
         <page name='0643. Maximum Average Subarray I '/>
+        <page name='0091. Decode Ways '/>
+        <page name='1732. Find the Highest Altitude '/>
     </pages>
 </playground>
