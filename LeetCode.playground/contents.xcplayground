@@ -13,5 +13,6 @@
         <page name='0605. Can Place Flowers '/>
         <page name='0283. Move Zeroes '/>
         <page name='0392. Is Subsequence'/>
+        <page name='0643. Maximum Average Subarray I '/>
     </pages>
 </playground>
