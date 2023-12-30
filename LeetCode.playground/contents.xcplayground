@@ -21,5 +21,6 @@
         <page name='0091. Decode Ways'/>
         <page name='0345. Reverse Vowels of a String '/>
         <page name='0136. Single Number '/>
+        <page name='137. Single Number II'/>
     </pages>
 </playground>
