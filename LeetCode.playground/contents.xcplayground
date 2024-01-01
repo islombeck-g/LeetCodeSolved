@@ -23,5 +23,6 @@
         <page name='0136. Single Number '/>
         <page name='137. Single Number II'/>
         <page name='1624. Largest Substring Between Two Equal Characters '/>
+        <page name='0455. Assign Cookies '/>
     </pages>
 </playground>
