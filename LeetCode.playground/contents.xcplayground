@@ -22,5 +22,6 @@
         <page name='0345. Reverse Vowels of a String '/>
         <page name='0136. Single Number '/>
         <page name='137. Single Number II'/>
+        <page name='1624. Largest Substring Between Two Equal Characters '/>
     </pages>
 </playground>
